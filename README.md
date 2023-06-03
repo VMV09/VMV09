@@ -1,4 +1,5 @@
-[![MasterHead] (https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-8.gif)] (https://rishavchanda.io)
+[![MasterHead] 
+(https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-8.gif)] (https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vishruth M V</h1>
 <h3 align="center">A passionate and keen learner from India</h3>
 <img align="right" alt="Learning" widht="400" src="https://data.whicdn.com/images/331810809/original.gif">
