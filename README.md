@@ -1,5 +1,5 @@
 [![MasterHead] 
-(https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-8.gif)] (https://rishavchanda.io)
+https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-8.gif
 <h1 align="center">Hi 👋, I'm Vishruth M V</h1>
 <h3 align="center">A passionate and keen learner from India</h3>
 <img align="right" alt="Learning" widht="400" src="https://data.whicdn.com/images/331810809/original.gif">
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishruth mv" target="blank"><img src="https://img.shields.io/twitter/follow/vishruth mv?logo=twitter&style=for-the-badge" alt="vishruth mv" /></a> </p>
 
-- 🌱 I’m currently learning **Engineering 1st Sem**
+- 🌱 I’m currently learning **Engineering 4th Sem**
 
 - 🤝 I’m looking for help with **Mentoring and Guiding me to build a career**
 
