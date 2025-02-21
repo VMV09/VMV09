@@ -18,6 +18,12 @@
 
 - 📫 How to reach me **vishruth.mv10@gmail.com**
 
+<h3 align="left"> Publications: </h3>
+- **Chapter _Home Automation using Sensors_ published**,  
+e-ISBN: `978-93-6252-126-2`,  
+in the book series **IIP Series**, Volume **3**, Book **9**, Part **10**, Chapter **3**.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vishruth-mv-4482a11b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishruth-mv-4482a11b6" height="30" width="40" /></a>
