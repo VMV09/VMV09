@@ -19,9 +19,9 @@
 - 📫 How to reach me **vishruth.mv10@gmail.com**
 
 <h3 align="left"> Publications: </h3>
-- **Chapter _Home Automation using Sensors_ published**,  
-e-ISBN: `978-93-6252-126-2`,  
-in the book series **IIP Series**, Volume **3**, Book **9**, Part **10**, Chapter **3**.
+- Chapter “Home Automation using Sensors” published, e-ISBN: 978-93-6252 126-2, in the book series IIP Series, Volume 3, Book 9, Part 10, Chapter 3. 
+
+- “Soft Alert Generation for Student Dropout Mitigation and Proactive Management by Machine Learning Algorithms” in the 3rd IEEE International Conference on Intelligent and Innovation Technologies in Computing, Electrical and Electronics
 
 
 <h3 align="left">Connect with me:</h3>
