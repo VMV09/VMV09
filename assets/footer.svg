@@ -1,0 +1,35 @@
+<svg viewBox="0 0 880 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Complexity belongs inside the system, not in your application.">
+  <defs>
+    <style>
+      .mono  { font-family: ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, Menlo, monospace; }
+      .sans  { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .quote { fill: #8B949E; font-size: 14px; font-style: italic; letter-spacing: 0.3px; }
+      .eof   { fill: #484F58; font-size: 10px; letter-spacing: 2px; }
+
+      .scan { animation: scan 6s linear 1s infinite; }
+      @keyframes scan {
+        0%   { transform: translateX(0); opacity: 0; }
+        8%   { opacity: 1; }
+        92%  { opacity: 1; }
+        100% { transform: translateX(660px); opacity: 0; }
+      }
+      .fade { opacity: 0; animation: fadein 1s ease 0.3s forwards; }
+      @keyframes fadein { to { opacity: 1; } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .scan { animation: none; opacity: 0; }
+        .fade { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <line x1="110" y1="24" x2="770" y2="24" stroke="#1C2128" stroke-width="1"/>
+  <g class="scan">
+    <rect x="110" y="23.5" width="50" height="1" fill="#E3B341" opacity="0.85"/>
+  </g>
+
+  <g class="fade">
+    <text x="440" y="68" text-anchor="middle" class="sans quote">“Complexity belongs inside the system — not in your application.”</text>
+    <text x="440" y="104" text-anchor="middle" class="mono eof">· EOF ·</text>
+  </g>
+</svg>

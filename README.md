@@ -1,150 +1,141 @@
-<h1 align="center">Hi there 👋, I'm Vishruth M V</h1>
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Vishruth M V — Building the future of data systems" />
+</div>
 
-<p align="center">
-  <b>Software Engineer • Backend Systems • Database Research • AI Infrastructure</b>
-</p>
+<br />
 
-<p align="center">
-Building scalable software systems, researching next-generation database architectures, and engineering intelligent backend platforms.
-</p>
+<div align="center">
+  <samp>
+    Software engineer working on data systems — how they store, move, and reason about information.<br />
+    Currently researching <b>MVDB</b>, a unified data layer that challenges polyglot persistence.
+  </samp>
+</div>
 
----
+<br />
+<br />
 
-## 🚀 About Me
+<div align="center">
+  <img src="assets/dashboard.svg" width="100%" alt="MVDB engineering console — research pipeline, complexity benchmarks, and current focus" />
+</div>
 
-I'm a Software Engineer passionate about designing systems that scale.
+<br />
+<br />
 
-My interests span across:
+<h3 align="center"><samp>FEATURED ENGINEERING</samp></h3>
 
-- 🗄️ Database Architecture & Storage Systems
-- ⚙️ Backend Engineering
-- 🌐 Distributed Systems
-- 🤖 AI Infrastructure & Reasoning Systems
-- 📊 Enterprise Software Engineering
-- 🔬 Systems Research
+<br />
 
-I enjoy building software that is reliable, maintainable, and capable of solving real-world engineering problems.
+<table align="center">
+  <tr>
+    <td align="center" colspan="3">
+      <br />
+      <a href="https://github.com/vmv09"><b>MVDB</b></a>
+      <br /><br />
+      <sub>A research-driven, next-generation database architecture — one unified data layer<br />that absorbs application-side complexity and challenges traditional polyglot persistence.</sub>
+      <br /><br />
+      <sub><samp>research &nbsp;·&nbsp; storage engines &nbsp;·&nbsp; write-path design &nbsp;·&nbsp; distributed systems</samp></sub>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <br />
+      <b>INSIGHT</b>
+      <br /><br />
+      <sub>Government platform serving<br />400+ institutions in production.</sub>
+      <br /><br />
+      <sub><samp>public infrastructure</samp></sub>
+      <br /><br />
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <b>AI Medical Supply Chain</b>
+      <br /><br />
+      <sub>Intelligent forecasting and routing<br />for healthcare logistics.</sub>
+      <br /><br />
+      <sub><samp>applied ai · logistics</samp></sub>
+      <br /><br />
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <b>Enterprise Automation</b>
+      <br /><br />
+      <sub>Workflow automation platform<br />for enterprise operations.</sub>
+      <br /><br />
+      <sub><samp>platform engineering</samp></sub>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
----
+<br />
+<br />
 
-## 🔭 Currently Building
+<h3 align="center"><samp>EXPERIENCE</samp></h3>
 
-- 🧠 **MVDB** — Research-first database architecture exploring a unified approach to modern data management.
-- 🤖 AI reasoning and evaluation infrastructure.
-- ⚙️ Enterprise backend systems.
-- 📚 Technical blogs on databases, distributed systems, and software engineering.
+<br />
 
----
+<table align="center">
+  <tr><td align="right"><samp>DecisionX</samp></td><td>AI infrastructure — data &amp; forecasting systems</td></tr>
+  <tr><td align="right"><samp>Quoqo Technologies</samp></td><td>Software engineering</td></tr>
+  <tr><td align="right"><samp>Alstom</samp></td><td>Engineering — mobility systems</td></tr>
+  <tr><td align="right"><samp>Government Software</samp></td><td>INSIGHT — platform serving 400+ institutions</td></tr>
+</table>
 
-## 💼 Experience
+<br />
+<br />
 
-**AI Engineering Intern**  
-DecisionX
+<h3 align="center"><samp>PUBLICATIONS</samp></h3>
 
-**Software Engineering Intern**  
-Quoqo Technologies
+<br />
 
-**Product Engineering Intern**  
-Alstom
+<div align="center">
+  <samp>IEEE</samp> &nbsp;—&nbsp; Peer-reviewed research publication
+  <br /><br />
+  <samp>BOOK CHAPTER</samp> &nbsp;—&nbsp; Applied engineering research
+</div>
 
-**Software Developer**  
-Government Educational Administration Platform serving 400+ institutions
+<br />
+<br />
 
----
+<h3 align="center"><samp>STACK</samp></h3>
 
-## 🌟 Featured Projects
+<br />
 
-### 🗄️ MVDB
-Research-driven database architecture exploring unified data management beyond traditional polyglot persistence.
+<table align="center">
+  <tr><td align="right"><samp>languages</samp></td><td><code>Python</code> &nbsp;<code>TypeScript</code> &nbsp;<code>SQL</code> &nbsp;<code>Java</code></td></tr>
+  <tr><td align="right"><samp>data</samp></td><td><code>PostgreSQL</code> &nbsp;<code>Redis</code> &nbsp;<code>time-series</code> &nbsp;<code>query engines</code></td></tr>
+  <tr><td align="right"><samp>systems</samp></td><td><code>Linux</code> &nbsp;<code>Docker</code> &nbsp;<code>distributed systems</code> &nbsp;<code>API design</code></td></tr>
+  <tr><td align="right"><samp>ai</samp></td><td><code>forecasting</code> &nbsp;<code>LLM integration</code> &nbsp;<code>ML pipelines</code></td></tr>
+</table>
 
----
+<br />
+<br />
 
-### 🏛️ INSIGHT
-Government administrative platform designed for educational institutions with scalable architecture and high system availability.
+<h3 align="center"><samp>GITHUB</samp></h3>
 
----
+<br />
 
-### 💊 AI-Powered Medical Supply Chain
-Intelligent inventory management system combining:
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vmv09&show_icons=true&title_color=E3B341&icon_color=E3B341&text_color=8B949E&bg_color=0B0D10&border_color=1C2128&border_radius=12" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmv09&layout=compact&title_color=E3B341&text_color=8B949E&bg_color=0B0D10&border_color=1C2128&border_radius=12&hide_progress=false" alt="Most used languages" />
+</div>
 
-- Demand Forecasting
-- Inventory Optimization
-- Autonomous Procurement
-- AI-assisted Decision Making
+<br />
+<br />
 
----
+<h3 align="center"><samp>CONTACT</samp></h3>
 
-### 🚆 Enterprise Automation Platform
-Production-grade automation systems for railway signalling workflows, significantly reducing manual processing time and improving reliability.
+<br />
 
----
+<div align="center">
+  <a href="https://devmv.in"><samp>devmv.in</samp></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/vmv09"><samp>github</samp></a>
+</div>
 
-## 📚 Publications
+<br />
 
-- IEEE International Conference publication on Machine Learning for Student Dropout Mitigation.
-- Book Chapter: *Home Automation using Sensors* (IIP Series).
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend & Frameworks
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vmv09&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmv09&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/vishruth-mv-4482a11b6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:vishruth.mv10@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/@vishruth_mv10">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<i>"Engineering isn't about writing more code.<br>
-It's about designing systems that continue working long after you've stopped looking at them."</i>
-</p>
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="Complexity belongs inside the system — not in your application." />
+</div>

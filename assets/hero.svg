@@ -1,0 +1,114 @@
+<svg viewBox="0 0 880 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vishruth M V — Building the future of data systems">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, 'Cascadia Mono', Consolas, Menlo, monospace; }
+
+      .name    { fill: #E6EDF3; font-size: 40px; font-weight: 600; letter-spacing: 14px; }
+      .tagline { fill: #8B949E; font-size: 15px; font-weight: 400; letter-spacing: 0.4px; }
+      .label   { fill: #484F58; font-size: 11px; letter-spacing: 1px; }
+      .typed   { fill: #E3B341; font-size: 12.5px; letter-spacing: 0.5px; }
+      .status  { fill: #8B949E; font-size: 11px; letter-spacing: 1px; }
+
+      /* intro sequence */
+      .fade-1, .fade-2, .fade-3 { opacity: 0; animation: fadeUp 0.9s cubic-bezier(0.2, 0.6, 0.2, 1) forwards; }
+      .fade-1 { animation-delay: 0.15s; }
+      .fade-2 { animation-delay: 0.45s; }
+      .fade-3 { animation-delay: 0.75s; }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(8px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+
+      /* rule line draws outward from center */
+      .rule { stroke: #1C2128; stroke-width: 1; transform-origin: 440px 178px; transform: scaleX(0); animation: drawRule 1s cubic-bezier(0.4, 0, 0.2, 1) 0.7s forwards; }
+      @keyframes drawRule { to { transform: scaleX(1); } }
+
+      /* typewriter — clip reveals text left to right in character steps */
+      .typeclip rect { animation: type 2.8s steps(75, end) 1.3s forwards; }
+      @keyframes type { from { width: 0; } to { width: 600px; } }
+      .caret { fill: #E3B341; opacity: 0; animation: caretIn 0.1s linear 1.3s forwards, blink 1.1s steps(1) 1.4s infinite; }
+      @keyframes caretIn { to { opacity: 1; } }
+      @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+
+      /* status dot pulse */
+      .dot      { fill: #E3B341; }
+      .dot-ring { fill: none; stroke: #E3B341; stroke-width: 1; opacity: 0; animation: ping 2.6s cubic-bezier(0, 0, 0.2, 1) 1s infinite; }
+      @keyframes ping {
+        0%   { r: 3;  opacity: 0.7; }
+        70%  { r: 10; opacity: 0; }
+        100% { r: 10; opacity: 0; }
+      }
+
+      /* single quiet pulse traveling the base line */
+      .scan { animation: scan 7s linear 2s infinite; }
+      @keyframes scan {
+        0%   { transform: translateX(0); opacity: 0; }
+        6%   { opacity: 1; }
+        94%  { opacity: 1; }
+        100% { transform: translateX(720px); opacity: 0; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .fade-1, .fade-2, .fade-3 { animation: none; opacity: 1; }
+        .rule { animation: none; transform: scaleX(1); }
+        .typeclip rect { animation: none; width: 560px; }
+        .caret { animation: none; opacity: 1; }
+        .dot-ring, .scan { animation: none; opacity: 0; }
+      }
+    </style>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#E6EDF3" stroke-opacity="0.028" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="glow" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#E3B341" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#E3B341" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="typewriter" class="typeclip">
+      <rect x="155" y="200" width="0" height="26"/>
+    </clipPath>
+  </defs>
+
+  <!-- canvas -->
+  <rect width="880" height="310" rx="12" fill="#0B0D10"/>
+  <rect width="880" height="310" rx="12" fill="url(#grid)"/>
+  <rect width="880" height="310" rx="12" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="879" height="309" rx="11.5" stroke="#1C2128"/>
+
+  <!-- top chrome -->
+  <text x="36" y="42" class="mono label">~/vishruth-mv</text>
+  <g class="fade-1">
+    <circle class="dot" cx="782" cy="38" r="3"/>
+    <circle class="dot-ring" cx="782" cy="38" r="3"/>
+    <text x="794" y="42" class="mono status">ONLINE</text>
+  </g>
+
+  <!-- identity -->
+  <g class="fade-1">
+    <text x="447" y="140" text-anchor="middle" class="sans name">VISHRUTH M V</text>
+  </g>
+
+  <line x1="340" y1="178" x2="540" y2="178" class="rule"/>
+
+  <g class="fade-2">
+    <text x="440" y="168" text-anchor="middle" class="sans tagline">Building the future of data systems</text>
+  </g>
+
+  <!-- typewriter line -->
+  <g class="fade-3">
+    <text x="139" y="218" class="mono typed" opacity="0.55">$</text>
+    <g clip-path="url(#typewriter)">
+      <text x="155" y="218" class="mono typed">backend · database architecture · distributed systems · ai infrastructure</text>
+    </g>
+    <rect class="caret" x="748" y="206" width="7" height="15"/>
+  </g>
+
+  <!-- base line + traveling pulse -->
+  <line x1="80" y1="266" x2="800" y2="266" stroke="#1C2128" stroke-width="1"/>
+  <g class="scan">
+    <rect x="80" y="265.5" width="60" height="1" fill="#E3B341" opacity="0.85"/>
+  </g>
+</svg>
