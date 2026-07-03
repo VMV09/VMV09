@@ -6,8 +6,8 @@
 
 <div align="center">
   <samp>
-    Software engineer working on data systems — how they store, move, and reason about information.<br />
-    Currently researching <b>MVDB</b>, a unified data layer that challenges polyglot persistence.
+    Software engineer working across backend systems, distributed architecture, and AI infrastructure.<br />
+    Focused on building software that is reliable, scalable, and engineered to last.
   </samp>
 </div>
 
@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-  <img src="assets/dashboard.svg" width="100%" alt="MVDB engineering console — research pipeline, complexity benchmarks, and current focus" />
+  <img src="assets/dashboard.svg" width="100%" alt="Engineering console — core competencies, engineering impact, and current focus" />
 </div>
 
 <br />
